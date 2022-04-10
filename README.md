@@ -139,7 +139,21 @@ O *footer* foi produzido utilizando sua própria TAG; <BR>
 
 Também alinhado com *flex-box*. 
 
+## **menu type "hamburguer"** 🍔
+
+![menu w CSS type hamburguer](https://user-images.githubusercontent.com/101408372/162268205-b95320f6-c6c2-4772-9c18-68a6212d7ddf.png)
+
+*Criando essa variação de menu apenas com CSS & HTML*
+
+Como referência, consultei as seguintes fontes: <br>
+- [How to creat menu hamburguer](https://vidafullstack.com.br/html/como-criar-um-menu-hamburguer-com-html-e-css/) <br>
+
+Esse atributo foi utilizado para administrar a forma como as medias queries em <700 iriam funcionar, é uma forma de trabalhar com um web design responsivo. 
+
+Utilizei a biblioteca de ícones para pegar o *menu bar*: [Font Awesome](https://fontawesome.com/v5/icons/font-awesome-logo-full?s=solid) 
+
 Em suma, **adoteAqui** foi um projeto desafiador, onde pude exercitar e conhecer ínumeros conceitos, recorrer à comunidade quando necessário, e absorver informações e aprendizados valiosos para uma trajetória embasada no desenvolvimento web. 
+
 
 
 
