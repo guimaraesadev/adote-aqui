@@ -139,7 +139,7 @@ O *footer* foi produzido utilizando sua própria TAG; <BR>
 
 Também alinhado com *flex-box*. 
 
-## **menu type "hamburguer"** 🍔
+## → **Menu type "Hamburguer";** 🍔
 
 ![menu w CSS type hamburguer](https://user-images.githubusercontent.com/101408372/162268205-b95320f6-c6c2-4772-9c18-68a6212d7ddf.png)
 
@@ -152,6 +152,15 @@ Esse atributo foi utilizado para administrar a forma como as medias queries em <
 
 Utilizei a biblioteca de ícones para pegar o *menu bar*: [Font Awesome](https://fontawesome.com/v5/icons/font-awesome-logo-full?s=solid) 
 
+## → **Creation and Design;**
+                                                                                    
+
+![design pgithub 1](https://user-images.githubusercontent.com/101408372/162733648-25dcef55-e8bf-4f55-8290-3e8d8e10b777.png)
+![design pgithub 2](https://user-images.githubusercontent.com/101408372/162733645-d47f2b0e-031a-4814-bf77-0bb02c8b6d4e.png)
+                                                                    
+                                                                                    
+                                                                                    
+## → **Conclusão;** 
 Em suma, **adoteAqui** foi um projeto desafiador, onde pude exercitar e conhecer ínumeros conceitos, recorrer à comunidade quando necessário, e absorver informações e aprendizados valiosos para uma trajetória embasada no desenvolvimento web. 
 
 
